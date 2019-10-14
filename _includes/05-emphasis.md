@@ -1,5 +1,6 @@
 Skills include:
 1. **Creativity**
-2. _Practicality_
+2. __Practicality__
+
 
 
